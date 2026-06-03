@@ -8,6 +8,35 @@ The application combines OCR technology, Natural Language Processing, and Artifi
 Add application screenshots here:
 
 
+page 1:
+
+
+![image alt](https://github.com/BalajikumarDV/AI-Powered-Personal-Finance-Tracker-Advisor/blob/742432b0fe52cf85fed46bfd70aadc55716d3f46/1.png)
+
+
+
+page 2
+
+
+![image alt](https://github.com/BalajikumarDV/AI-Powered-Personal-Finance-Tracker-Advisor/blob/742432b0fe52cf85fed46bfd70aadc55716d3f46/2.png)
+
+
+
+page 3
+
+![image alt](https://github.com/BalajikumarDV/AI-Powered-Personal-Finance-Tracker-Advisor/blob/742432b0fe52cf85fed46bfd70aadc55716d3f46/3.png)
+
+
+
+page 4
+
+
+![image alt](https://github.com/BalajikumarDV/AI-Powered-Personal-Finance-Tracker-Advisor/blob/742432b0fe52cf85fed46bfd70aadc55716d3f46/4.png)
+
+
+page 5
+
+![image alt](https://github.com/BalajikumarDV/AI-Powered-Personal-Finance-Tracker-Advisor/blob/742432b0fe52cf85fed46bfd70aadc55716d3f46/5.png)
 
 
 ---
